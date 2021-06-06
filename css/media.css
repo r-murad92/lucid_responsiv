@@ -1,0 +1,62 @@
+@media (min-width: 0px) and (max-width: 320px){
+    .btn_download,  .btn_featues{
+        margin-left: 60px;
+        text-align: center;
+    }
+    .btn_featues{
+        color: #fff !important;
+        margin-left: 60px;
+    }
+    .banner_content{
+        min-height: 100vh;
+    }
+    
+    .coustom h5, h1, p{
+        text-align: center;
+    }
+    .clint {
+        width: 82%;
+        
+    }
+}
+@media (min-width: 0px) and (max-width: 575px){
+    .phone{
+        display: none;
+    }
+    .banner_content h5{
+        font-size: 13px;
+        text-align: center;
+    }
+    .banner_content h1{
+        text-align: center;
+    }
+    .banner_content{
+        min-height: 100vh;
+    }
+    .banner_content p {
+        text-align: center;
+    }
+    .download h2 {
+        text-align: center;
+    }
+    .download .col-md-4{
+        text-align: center;
+    }
+    .footer_section h5 {
+        font-size: 15px;
+        text-align: center;
+    }
+    .footer_section .row {
+        padding: 10px !important;
+    }
+    .coustom_left_col{
+        padding-top: 0px !important;
+    }
+    .offer_details {
+        margin-bottom: 0 !important;
+        padding-bottom: 0 !important;
+    }
+}
+@media (min-width: 576px) and (max-width: 767px){
+   
+}
